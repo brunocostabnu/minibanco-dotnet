@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET: Launch C# project",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/Minibanco.ConsoleApp/bin/Debug/net10.0/Minibanco.ConsoleApp.dll",
+            "cwd": "${workspaceFolder}/src/Minibanco.ConsoleApp",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
